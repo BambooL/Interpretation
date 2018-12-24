@@ -31,7 +31,7 @@ start server:
 
 ```bash
 cd ../..
-python lstm_server.py -dir <datadir>
+python lstm_server.py -dir model/linux_original
 ```
 
 For the example dataset, use `python lstm_server.py -dir data`
@@ -41,4 +41,4 @@ open browser at [http://localhost:8888](http://localhost:8888/client/index.html)
 
 ## Credits
 
-LSTMVis is a collaborative project of Hendrik Strobelt, Sebastian Gehrmann, Bernd Huber, Hanspeter Pfister, and Alexander M. Rush at Harvard SEAS.
+This work is folked from LSTMVis. LSTMVis is a collaborative project of Hendrik Strobelt, Sebastian Gehrmann, Bernd Huber, Hanspeter Pfister, and Alexander M. Rush at Harvard SEAS.
