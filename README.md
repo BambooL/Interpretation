@@ -2,13 +2,7 @@
 
 ## Install
 
-Please use python 2.7 to install LSTMVis.
-
-Clone the repository:
-
-```bash
-git clone https://github.com/HendrikStrobelt/LSTMVis.git; cd LSTMVis
-```
+Please use python 2.7 to install.
 
 Install python (server-side) requirements using [pip](https://pip.pypa.io/en/stable/installing/):
 
