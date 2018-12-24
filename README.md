@@ -1,4 +1,4 @@
-# ![](docs/img/logo_sm.png) Visual Analysis for State Changes in RNNs for Program Synthesis
+# Visual Analysis for State Changes in RNNs for Program Synthesis
 
 ## Install
 
